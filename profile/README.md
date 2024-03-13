@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Chameleeon/Chameleeon/blob/main/chammy.png" width="200" title="hover text">
+  <img src="https://github.com/BlazrDev/.github/blob/main/profile/blazr-logo-png.png" width="200" title="hover text">
 <div id="intro">
   <h1>
     Who are we?
