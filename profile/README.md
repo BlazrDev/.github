@@ -8,7 +8,7 @@
 </div>
 <div id="tools">
   <h1>Tools we are using</h1>
-  <p>Here some of the tools I use most and am fairly proficient in:</p>
+  <p>Here some of the tools we are using to develop our engine:</p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="Git" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="Linux" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="C" width="50" height="50"/>&nbsp;
